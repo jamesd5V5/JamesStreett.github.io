@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Create a button element
     var button = document.createElement("button");
-    button.textContent = "Say Hi";
+    button.textContent = "Say Hiiiiii";
     button.addEventListener("click", function () {
         alert("Hi");
     });
